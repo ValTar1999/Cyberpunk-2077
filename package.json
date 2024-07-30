@@ -1,6 +1,6 @@
 {
-  "homepage": "https://ValTar1999.github.io/Cyberpunk-2077",
   "name": "app",
+  "homepage": "https://ValTar1999.github.io/Cyberpunk-2077",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
